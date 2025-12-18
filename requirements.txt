@@ -1,0 +1,11 @@
+llama-index
+llama-index-vector-stores-faiss
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+PyPDF2
