@@ -1,4 +1,5 @@
 llama-index
+llama-index-readers-file
 llama-index-vector-stores-faiss
 llama-index-llms-gemini
 llama-index-embeddings-gemini
@@ -9,3 +10,7 @@ streamlit
 python-dotenv
 pydantic
 PyPDF2
+python-multipart
+requests
+beautifulsoup4
+pypdf
